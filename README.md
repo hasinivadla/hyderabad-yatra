@@ -127,7 +127,7 @@ This app is deployed on **Render** (free tier).
 
 ## 👨‍💻 Author
 
-**Sreenidhi** — [GitHub](https://github.com/sreenidhi-06)
+**vadla hasini** — [GitHub](https://github.com/hasinivadla)
 
 ---
 
